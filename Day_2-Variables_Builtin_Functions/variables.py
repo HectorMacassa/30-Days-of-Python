@@ -24,3 +24,11 @@ print(len(fullName))
 
 num1 = 5
 num2 = 4
+
+total = num1 + num2
+diff = num1 - num2
+product = num1 * num2
+division = num2 // num1
+remainder = num2 % num1
+exp = num1 ** num2
+
